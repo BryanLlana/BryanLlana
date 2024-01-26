@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Bryan</h1>
 <h3 align="center">Soy un desarrollador web apasionado.</h3>
 
-- 👨‍💻 All of my projects are available at [bryan.com](bryan.com)
+- 👨‍💻 All of my projects are available at [bryanllana.com](https://bryan-llana.netlify.app/)
 
 - 💬 Ask me about **html, css, vuejs, reactjs y nodejs**
 
